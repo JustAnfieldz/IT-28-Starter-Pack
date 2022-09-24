@@ -5,4 +5,4 @@ Being an instructor in IT#28 Starter Pack. The subject that I taught was Basic D
 
 ## Table of Content
 1. [presentation](./Database_slide.pdf)
-2. [SQL script](./script database.sql)
+2. [SQL script](./script_database.sql)
